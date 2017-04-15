@@ -1,0 +1,20 @@
+/*UNIVERSALS*/
+.black{
+  background-color: #000;
+}
+
+.small-height{
+  height: 20px;
+}
+
+.medium-height{
+  height: 60px;
+}
+
+.large-height{
+  height: 120px;
+}
+
+.xl-height{
+  height: 240px;
+}
